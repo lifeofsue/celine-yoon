@@ -7,7 +7,7 @@
 <!--START_SECTION:celine-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
 **I'm an Early 🐤** 
 
