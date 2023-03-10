@@ -7,7 +7,7 @@
 <!--START_SECTION:celine-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm a Night 🦉** 
 
